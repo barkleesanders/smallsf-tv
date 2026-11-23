@@ -1,0 +1,7 @@
+signing.keystore
+build/
+*.log
+SmallSF-TV.apk
+.DS_Store
+SmallSF-TV.apk.idsig
+repo-setup.sh
